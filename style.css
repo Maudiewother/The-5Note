@@ -1,0 +1,42 @@
+body {
+    padding:0;
+    margin:0;
+    background: white
+}
+
+img {
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%)
+}
+
+.NOTE {
+    width:500px;
+    height:auto;
+}
+
+.KING {
+    width:500px;
+    height:auto;
+}
+
+.STATUS {
+    width:500px;
+    height:auto;
+}
+
+.INEQUALITY {
+    width:500px;
+    height:auto
+}
+
+.PROTEST { 
+    width:500px;
+    height:auto;
+}
+
+.LIVING {
+    width:500px;
+    height:auto;
+}
